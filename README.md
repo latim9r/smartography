@@ -1,5 +1,5 @@
 # smartography
-cartography, but... y'know... smart.
+cartography, but... y'know... smart(ish).
 
 ## webapi
 hit f5
